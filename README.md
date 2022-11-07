@@ -4,7 +4,7 @@ You can watch step by step of this tutorial from this link [YouTube Video](https
 
 ## useful links that were used in tutorial
 1- [Redux-Redux documentation](https://react-redux.js.org/introduction/getting-started) \
-2- [Redux documentation](https://redux.js.org/introduction/why-rtk-is-redux-today) \
+2- [Redux Toolkit documentation](https://redux.js.org/introduction/why-rtk-is-redux-today) \
 3- [Redux DevTools Chrome Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
 
 ## How to run the app
